@@ -1,3 +1,4 @@
 # Laptop-Price-Predictor-App
 
-https://laptoppricepredictionapp.herokuapp.com/
+<img src=images/1.png>
+<img src=images/2.png>
